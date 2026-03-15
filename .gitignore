@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# IDE
+.idea/
+
+# Dataset
+data/
+images/
+
+# CSV annotations
+*.csv
+
+# Model weights
+*.pth
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+results/metrics.json
+results/output/
+*.lock
